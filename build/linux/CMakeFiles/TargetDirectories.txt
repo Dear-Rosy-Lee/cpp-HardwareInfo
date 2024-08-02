@@ -1,0 +1,3 @@
+/mnt/hgfs/hardware-info/build/linux/CMakeFiles/HardwareInfo.dir
+/mnt/hgfs/hardware-info/build/linux/CMakeFiles/edit_cache.dir
+/mnt/hgfs/hardware-info/build/linux/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+^E:\PHD\YLT\HARDWARE-INFO\CMAKELISTS.TXT
+setlocal
+E:\program\tool\cmake\bin\cmake.exe -SE:/PHD/ylt/hardware-info -BE:/PHD/ylt/hardware-info/build/windows --check-stamp-file E:/PHD/ylt/hardware-info/build/windows/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

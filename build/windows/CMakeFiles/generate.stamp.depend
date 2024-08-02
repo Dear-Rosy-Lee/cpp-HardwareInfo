@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+E:/PHD/ylt/hardware-info/CMakeLists.txt
+E:/PHD/ylt/hardware-info/build/windows/CMakeFiles/3.30.0-rc1/CMakeCCompiler.cmake
+E:/PHD/ylt/hardware-info/build/windows/CMakeFiles/3.30.0-rc1/CMakeCXXCompiler.cmake
+E:/PHD/ylt/hardware-info/build/windows/CMakeFiles/3.30.0-rc1/CMakeRCCompiler.cmake
+E:/PHD/ylt/hardware-info/build/windows/CMakeFiles/3.30.0-rc1/CMakeSystem.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/CMakeCInformation.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/CMakeCXXInformation.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/CMakeGenericSystem.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/CMakeRCInformation.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/Compiler/MSVC-C.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/Compiler/MSVC.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/Platform/Windows-MSVC-C.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/Platform/Windows.cmake
+E:/program/tool/cmake/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake

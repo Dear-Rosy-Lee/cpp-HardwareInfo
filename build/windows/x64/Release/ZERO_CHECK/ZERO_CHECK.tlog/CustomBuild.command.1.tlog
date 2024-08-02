@@ -1,0 +1,10 @@
+^E:\PHD\YLT\HARDWARE-INFO\BUILD\WINDOWS\CMAKEFILES\F4E9093A7BD2F1839BD6E39A1C2373BA\GENERATE.STAMP.RULE
+setlocal
+E:\program\tool\cmake\bin\cmake.exe -SE:/PHD/ylt/hardware-info -BE:/PHD/ylt/hardware-info/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/PHD/ylt/hardware-info/build/windows/HardwareInfo.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

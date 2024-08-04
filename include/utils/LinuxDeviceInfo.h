@@ -4,7 +4,9 @@
 #include <string>
 #include <vector>
 #include "json.hpp"
-
+std::string ExecuteCommand(const char* cmd);
+std::vector<std::string> ExecuteCommandAndSplit(const char* cmd, char delimiter);
+std::vector<std::string> GetNetworkInterfaces();
 class LinuxDeviceInfo {
 public:
     LinuxDeviceInfo();
@@ -19,10 +21,6 @@ public:
     std::string GetMemoryInfo();
     std::string GetMainboardInfo();
     nlohmann::json GetAllDeviceInfoAsJson();
-
-private:
-    std::string ExecuteCommand(const char* cmd);
-    std::vector<std::string> ExecuteCommandAndSplit(const char* cmd, char delimiter);
 };
 
 #endif
